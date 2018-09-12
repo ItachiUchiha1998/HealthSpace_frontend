@@ -8,7 +8,10 @@ For front end following technologies were used:
   <li><b>Google Materialise</b>:  Site design and responsiveness </li>
 </ul>
 
-Sample pictures of project include
+Sample pictures of project include:<br></br>
       <img src="1 (1).png">
-      <img src="3.png" alt="New York">
+      <img src="3.png">
+      <img src="5.png">
+      
+      
  
