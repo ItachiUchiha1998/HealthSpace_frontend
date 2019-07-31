@@ -9,9 +9,11 @@ For front end following technologies were used:
 </ul>
 
 Sample pictures of project include:<br></br>
-      <img src="1 (1).png">
-      <img src="3.png">
-      <img src="5.png">
       
-      
- 
+<html>
+  <p align="center">
+    <img src='1 (1).png' width='300em' style="margin: 0.5em"/>
+    <img src='3.png' width='300em' style="margin: 0.5em"/>
+    <img src='5.png' width='300em' style="margin: 0.5em"/>
+   </p>
+</html>
